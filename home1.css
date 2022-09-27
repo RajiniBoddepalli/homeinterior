@@ -1,0 +1,35 @@
+.navbar{
+    display: inline-block;
+    height: 50px;
+ }
+ .cs{
+    display: inline;
+    margin: 250px;
+    margin-left: 0%;
+    margin-right: 500px;
+ }
+ .it{
+    display: inline-flex;
+    width: 100px;
+ }
+ body{
+    background-image: url(https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-color: rgba(0,0,0,0.6);
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+ }  
+ .tex{
+    
+    margin-top:200px;
+    margin-left: 300px;
+    font-size: 60px;
+ }
+ p{
+    margin-left: 420px;
+ }
+form{
+    margin-left: 420px;
+}
+.feo{
+    margin-right:20px ;
+}
